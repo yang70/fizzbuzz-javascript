@@ -1,5 +1,7 @@
 # FizzBuzz - A JavaScript Exercise
 
+By [Matthew Yang](http://www.matthewgyang.com).
+
 ## Description
 This is a practice/demonstration repository to practice JavaScript by creating an answer to the classic coding challenge - FizzBuzz.
 
@@ -23,3 +25,7 @@ Fizz
 FizzBuzz
 ```
 The specs given for this exercise stat a JavaScrip program that iterates from 1 to 1000 and returns either the number or Fizz/Buzz/FizzBuzz respectively.
+
+
+##Testing
+BDD testing implemented through [npm](https://www.npmjs.com), specifically [Mocha](https://mochajs.org) and the [Chai](http://chaijs.com) assertion library.

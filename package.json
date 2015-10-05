@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-javascript",
+  "version": "1.0.0",
+  "description": "FizzBuzz challenge in javascript",
+  "main": "lib/fizzBuzz.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang70/fizzbuzz-javascript.git"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yang70/fizzbuzz-javascript/issues"
+  },
+  "homepage": "https://github.com/yang70/fizzbuzz-javascript#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
